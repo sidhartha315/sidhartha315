@@ -19,31 +19,32 @@ vector databases, and Retrieval-Augmented Generation (RAG).
 
 ## 🛠️ Technical Skills
 
+### Programming
+- Python
+- SQL
+
 ### Generative AI
+- Generative AI
 - Large Language Models (LLMs)
 - Prompt Engineering
 - Embeddings
-- Semantic Similarity
-- Retrieval-Augmented Generation (RAG)
 - Vector Databases
+- Retrieval-Augmented Generation (RAG)
 
-### AI / Python
-- Python
+### AI Tools & Frameworks
 - Sentence Transformers
-- PyTorch
-- NumPy
-- OpenCV
-
-### Tools & Technologies
 - ChromaDB
 - Ollama
+
+### Data & Visualization
+- Microsoft Excel
+- Power BI
+- Tableau
+
+### Development
 - Git
 - GitHub
 - VS Code
-
-### Database
-- SQL
-- MySQL
 
 ## 📌 Featured Project
 
@@ -84,7 +85,7 @@ Final Answer
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/rachamalla-sidhartha-914022311
 - GitHub: https://github.com/sidhartha315
 - Location: Hyderabad, Telangana, India
 
